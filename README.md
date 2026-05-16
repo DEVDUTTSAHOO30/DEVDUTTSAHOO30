@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J2eDd4cmlkb2NnMWtxbmJvcHJndnRrbmppc2VqMzdobW01MWozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
+    <img src="static/spiderTingle.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
   </p>
 
   <a href="https://github.com/DEVDUTTSAHOO30">
@@ -32,15 +32,6 @@
   </a>
 </div>
 
-<br />
-
-## 🕸️ Projects Across the Multiverse
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[PromptMail](YOUR_REPO_LINK)** | AI-powered email client with real-time synchronization and smart summaries. | `Next.js` `React` `Node.js` |
-| **[Real-Time Alert System](YOUR_REPO_LINK)** | Data science system for live topic tracking, Reddit crawling, and sentiment analysis. | `Python` `Machine Learning` |
-| **[DSA & CP Solutions](YOUR_REPO_LINK)** | A curated vault of my competitive programming solutions for Codeforces and LeetCode. | `C++` |
 
 <br />
 
@@ -60,23 +51,23 @@
 ## 🏙️ Connecticut GitHub Activity
 
 <div align="center" style="margin-top: 24px;">
-  <p style="max-width:760px; margin: 0 auto 18px; color:#cbd5e1;">A 3D-style GitHub contribution experience that matches the profile's midnight-blue theme. This section is built to show live momentum and summary highlights.</p>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; max-width:760px; margin:0 auto;">
-    <div style="width:50px; height:84px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
-    <div style="width:50px; height:108px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
-    <div style="width:50px; height:70px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
-    <div style="width:50px; height:120px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
-    <div style="width:50px; height:96px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
-    <div style="width:50px; height:88px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 12px 12px 4px 4px; box-shadow: 0 12px 30px rgba(0,0,0,0.28);"></div>
+  <p style="max-width:760px; margin:0 auto 18px; color:#cbd5e1;">A 3D-style GitHub contribution experience that matches the profile's midnight-blue theme. This section is built to show live momentum and summary highlights.</p>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; max-width:760px; margin:0 auto 18px;">
+    <div style="width:44px; height:104px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
+    <div style="width:44px; height:76px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
+    <div style="width:44px; height:120px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
+    <div style="width:44px; height:88px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
+    <div style="width:44px; height:68px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
+    <div style="width:44px; height:96px; background: linear-gradient(180deg, rgba(96,165,250,0.95), #0f172a 70%); border-radius: 14px 14px 4px 4px; box-shadow: 0 14px 32px rgba(0,0,0,0.28);"></div>
   </div>
-  <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:14px; margin-top:18px; width:100%; max-width:760px;">
+  <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; width:100%; max-width:760px; margin:0 auto;">
     <div style="background:rgba(15,23,42,0.92); border:1px solid #334155; border-radius:18px; padding:20px; text-align:center;">
-      <strong style="color:#60a5fa; display:block; margin-bottom:10px;">Nightly Updates</strong>
-      GitHub Actions refresh this graph and summary cards every day at 18:00 UTC.
+      <strong style="color:#60a5fa; display:block; margin-bottom:10px;">Generated Nightly</strong>
+      GitHub Actions refresh this contribution graph every day at 18:00 UTC.
     </div>
     <div style="background:rgba(15,23,42,0.92); border:1px solid #334155; border-radius:18px; padding:20px; text-align:center;">
-      <strong style="color:#60a5fa; display:block; margin-bottom:10px;">Theme Match</strong>
-      The visual palette uses deep blues and bright electric accents to mirror this page.
+      <strong style="color:#60a5fa; display:block; margin-bottom:10px;">Theme-Matched Design</strong>
+      Deep blues and electric accents link this graph with the profile page visual identity.
     </div>
     <div style="background:rgba(15,23,42,0.92); border:1px solid #334155; border-radius:18px; padding:20px; text-align:center;">
       <strong style="color:#60a5fa; display:block; margin-bottom:10px;">Connecticut Focus</strong>
