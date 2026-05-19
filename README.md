@@ -22,9 +22,6 @@
 ## 🏙️ Contribution Cityscape
 
 <div align="center">
-  <p align="center">
-    <i>A 3D representation of my open-source momentum and coding activity.</i>
-  </p>
 
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
