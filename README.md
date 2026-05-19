@@ -11,7 +11,7 @@
 
   <img src="static/spiderTingle.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
   
-  <br /><br />
+  <br/>
   
   <img src="https://komarev.com/ghpvc/?username=DEVDUTTSAHOO30&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -95,15 +95,18 @@
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats"  />
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages"  />
-</div>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+  
+  <br />
 
-<br />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  
+  <br />
+  
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Overall Stats" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time (Commits)" width="48%" />
 </div>
-<br />
 
 ## 📬 Contact Me
 
