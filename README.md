@@ -74,16 +74,13 @@
 </div>
 <br />
 
-## ⚡ Multiverse Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" width="48%" />
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats"  />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages"  />
 </div>
 
 <br />
-
-## 🏙️ Multiverse Contribution Cityscape
 
 <div align="center">
   <p align="center">
