@@ -1,19 +1,19 @@
 <div align="center">
   <img src="static/spiderTingle.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
   
-  <br /><br />
+  <br />
 
   <a href="https://github.com/DEVDUTTSAHOO30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Devdutt+Sahoo;Building+AI+%26+Web+Apps;Solving+Complex+DSA+Problems;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Devdutt;Architecting+Web+Solutions;Exploring+DevOps+%26+Cloud;Exploring+ML/DL;Currently+Diving+into+AI;" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>CS Undergrad | Full-Stack Developer | ML Enthusiast</b>
+    <b>CS Undergrad @ NIT Jamshedpur | Full-Stack Developer | DevOps | ML | AI</b>
   </p>
-
+  
   <img src="https://komarev.com/ghpvc/?username=DEVDUTTSAHOO30&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-  <br /><br />
+  <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </div>
 
@@ -111,6 +111,4 @@
   <a href="https://x.com/DevduttSahoo" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  trigger workflows
 </div>
-<!--  -->
