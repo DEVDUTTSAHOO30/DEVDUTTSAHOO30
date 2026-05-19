@@ -8,28 +8,28 @@
   </p>
   
   <br />
-
-  <img src="static/spiderTingle.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=DEVDUTTSAHOO30&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </div>
 
 ## 🏙️ Contribution Cityscape
 
 <div align="center">
-
+  <p align="center">
+    <i>A 3D representation of my open-source momentum and coding activity.</i>
+  </p>
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br />
+
 <div align="center">
+  <img src="static/spiderTingle.gif" alt="Spider-Man Spider-Verse GIF" width="400" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=DEVDUTTSAHOO30&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </div>
+
 <br />
 
 ## 🕷️ Technologies I've Worked With
@@ -92,18 +92,24 @@
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" width="100%" />
   
-  <br />
+  <br /><br />
 
   <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
   
-  <br />
+  <br /><br />
   
   <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Overall Stats" width="48%" />
   <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time (Commits)" width="48%" />
 </div>
+
+<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+</div>
+<br />
 
 ## 📬 Contact Me
 
