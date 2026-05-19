@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DEVDUTTSAHOO30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Devdutt;Architecting+Web+Solutions;Exploring+DevOps+%26+Cloud;Exploring+ML/DL;Currently+Diving+into+AI;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Devdutt;Architecting+Web+Solutions;Exploring+DevOps+%26+Cloud;Building+ML+Models;Training+Neural+Networks;Currently+Diving+into+AI;" alt="Typing SVG" />
   </a>
 
   <p align="center">
